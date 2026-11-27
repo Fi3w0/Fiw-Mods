@@ -1,0 +1,44 @@
+[
+  {
+    "name": "FIW Bosses",
+    "slug": "fiw-bosses",
+    "repo": "Fi3w0/Fiw-Bosses",
+    "summary": "JSON boss framework"
+  },
+  {
+    "name": "FIW Custom Items",
+    "slug": "fiw-custom-items",
+    "repo": "Fi3w0/Fiw-Tools",
+    "summary": "JSON custom items and abilities"
+  },
+  {
+    "name": "FIW AntiCheat",
+    "slug": "fiw-anticheat",
+    "repo": "Fi3w0/Fiw-Anticheat",
+    "summary": "Mod verification and anti-cheat"
+  },
+  {
+    "name": "FIW Admin Utilities",
+    "slug": "fiw-admin-utilitys",
+    "repo": "Fi3w0/fiw-admin-utilitys",
+    "summary": "Maintenance and moderation tools"
+  },
+  {
+    "name": "FIW Graves",
+    "slug": "fiw-graves",
+    "repo": "Fi3w0/Fiw-Graves",
+    "summary": "Death chests and loot backup"
+  },
+  {
+    "name": "FIW Warp",
+    "slug": "fiw-warp",
+    "repo": "Fi3w0/Fiw-Warp",
+    "summary": "Homes, warps and back teleport"
+  },
+  {
+    "name": "FIW Clock",
+    "slug": "fiw-clock",
+    "repo": "Fi3w0/Fiw-Clock",
+    "summary": "Playtime, kills and deaths"
+  }
+]
