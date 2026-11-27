@@ -15,7 +15,7 @@ Mostly server-side, multi-loader Minecraft mods by [Fi3w0](https://github.com/Fi
 | [FIW Warp](https://github.com/Fi3w0/Fiw-Warp) | Homes, warps and back teleport | [1.2.0](https://modrinth.com/mod/fiw-warp/version/QvlAGj6n) | 26.3, 26.1.2, 1.21.11<br>1.21.8, 1.21.1, 1.20.1 | Fabric, Forge, NeoForge | [430](https://modrinth.com/mod/fiw-warp) |
 | [FIW Clock](https://github.com/Fi3w0/Fiw-Clock) | Playtime, kills and deaths | [1.2.0](https://modrinth.com/mod/fiw-clock/version/hsrHwFe7) | 26.3, 26.1.2, 1.21.11<br>1.21.8, 1.21.1, 1.20.1 | Fabric, Forge, NeoForge | [308](https://modrinth.com/mod/fiw-clock) |
 
-_Checked 2026-11-27 04:42 UTC. Generated from [`mods.json`](mods.json) by [`scripts/update.py`](scripts/update.py)._
+_Checked 2026-11-27 04:43 UTC. Generated from [`mods.json`](mods.json) by [`scripts/update.py`](scripts/update.py)._
 <!-- stats:end -->
 
 ## Legacy
