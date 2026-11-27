@@ -13,7 +13,7 @@ MODS = ROOT / "mods.json"
 README = ROOT / "README.md"
 START = "<!-- stats:start -->"
 END = "<!-- stats:end -->"
-USER_AGENT = "fiw-mods/1.0 (https://github.com/Fi3w0/fiw-mods)"
+USER_AGENT = "Fiw-Mods/1.0 (https://github.com/Fi3w0/Fiw-Mods)"
 TOKEN = os.environ.get("MODRINTH_TOKEN")
 
 LOADERS = {
@@ -103,8 +103,8 @@ def main():
     block = "\n".join(
         [
             f"**{total:,} downloads** across {len(mods)} mods. "
-            "[![Update mod stats](https://github.com/Fi3w0/fiw-mods/actions/workflows/update.yml/badge.svg)]"
-            "(https://github.com/Fi3w0/fiw-mods/actions/workflows/update.yml)",
+            "[![Update mod stats](https://github.com/Fi3w0/Fiw-Mods/actions/workflows/update.yml/badge.svg)]"
+            "(https://github.com/Fi3w0/Fiw-Mods/actions/workflows/update.yml)",
             "",
             "| Mod | Summary | Latest | Minecraft | Loaders | Downloads |",
             "| --- | --- | --- | --- | --- | ---: |",
